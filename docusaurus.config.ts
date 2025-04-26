@@ -13,6 +13,7 @@ const config: Config = {
   // GitHub pages deployment config.
   organizationName: "roman-dector",
   projectName: "matrix",
+  trailingSlash: false,
 
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
